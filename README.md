@@ -40,6 +40,7 @@ For a detailed demonstration and usage instructions, please refer to the project
 - Python
 - Natural Language Toolkit (NLTK)
 - NumPy
+- heapq
 
 ## Evaluation
 The algorithm's performance has been evaluated through the generation of summaries and comparison with the original text. The summaries produced are concise and capture essential information, making them valuable for information retrieval, content summarization, and text analysis.
